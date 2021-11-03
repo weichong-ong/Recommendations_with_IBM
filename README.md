@@ -2,8 +2,8 @@
 ## Introduction
 In this project, I analysed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations to them about new articles you think they will like. Below it is an example of what the dashboard could look like displaying articles on the IBM Watson Platform. 
 
-<p align="center">
-  <img src="IBM_articles.png" height="200" width="300" />
+<p align="left">
+  <img src="IBM_articles.png" height="400" width="600" />
 </p>
 
 
